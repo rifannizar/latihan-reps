@@ -1,1 +1,2 @@
-print ("nopal dayat cukimai")
+print ("nopal dayat jelek")
+print ("noval ganteng")
