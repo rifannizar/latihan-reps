@@ -1,0 +1,1 @@
+print ("nopal dayat cukimai")
